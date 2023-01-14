@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\Usuario\Documents\Ongoing Classes\Microprocesadores\Proyecto\SharpTest.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Usuario\Documents\Ongoing Classes\Microprocesadores\Proyecto\" "SharpTest.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_K22_B.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	SharpTest.c
+diagnostics: 35	123	Compiled Successfully	SharpTest.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 32 (2%)  Free RAM (bytes): 1483 (98%)	Used RAM (bytes): 32 (2%)  Free RAM (bytes): 1483 (98%)
+hint: 0	1144	Used ROM (bytes): 3515 (11%)  Free ROM (bytes): 29253 (89%)	Used ROM (bytes): 3515 (11%)  Free ROM (bytes): 29253 (89%)
+diagnostics: 0	125	Project Linked Successfully	SharpTest.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'SharpTest.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 16 Jun 2021, 17:13:39	SharpTest.mcppi
